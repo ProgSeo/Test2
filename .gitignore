@@ -16,6 +16,8 @@
 
 .classpath
 
+.properites
+
 # Package Files #
 *.jar
 *.war
